@@ -1,0 +1,6 @@
+{
+  "name": "My Finance PK",
+  "description": "Offline-first Personal Finance Manager tailored for Pakistan with PKR currency, Urdu & English support, budgets, savings goals, loan & bill tracking, and interactive reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
